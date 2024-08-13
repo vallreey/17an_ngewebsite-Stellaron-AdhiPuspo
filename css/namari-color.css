@@ -194,6 +194,13 @@ body {
   color: #111;
 }
 
+.section-title1 {
+  font-family: "Open Sans", sans-serif, Arial, Helvetica;
+  font-size: 34px;
+  font-weight: 700;
+  color: #111;
+}
+
 .title1 {
   margin-top: 340px;
   font-family: "Open Sans", sans-serif, Arial, Helvetica;
