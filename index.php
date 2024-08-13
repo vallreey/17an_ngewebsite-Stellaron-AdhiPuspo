@@ -158,16 +158,10 @@
                     <a href="#tokoh">Tokoh Pahlawan</a>
                   </li>
                   <li>
-                    <a href="#services">Gallrey Kemerdekaan</a>
-                  </li>
-                  <li>
-                    <a href="#testimonials">Lomba Agustusan</a>
+                    <a href="#galeri">Galeri Kemerdekaan</a>
                   </li>
                   <li>
                     <a href="#clients">Contact</a>
-                  </li>
-                  <li>
-                    <a href="#pricing">S</a>
                   </li>
                 </ul>
               </nav>
@@ -187,12 +181,10 @@
               <div class="section-heading">
                 <h1>MERDEKA! BERSAMA MENUJU <span class="highlight">INDONESIA</span> <span class="shine">EMAS</span></h1>
                 <h2>
-                  Merayakan Kemerdekaan, Membangun Masa Depan Pada 17 Agustus
-                  1945, Indonesia memproklamasikan kemerdekaannya, membuka jalan
-                  bagi terbentuknya sebuah bangsa yang berdaulat dan mandiri.
-                  Kini, lebih dari tujuh dekade kemudian, kita melanjutkan
-                  perjalanan ini dengan tekad yang sama mencapai generasi emas
-                  yang cerdas, berdaya saing, dan berwawasan global.
+                Pada hari Kemerdekaan Indonesia yang ke 79, mari kita bersama mengenang dan menghormati jasa-jasa para pahlawan yang telah berjuang demi kemerdekaan bangsa. 
+                Khususnya, kita mengingat peran besar dari tokoh-tokoh penting dalam Proklamasi Kemerdekaan Indonesia, seperti Soekarno dan Mohammad Hatta, yang dengan penuh keberanian dan tekad 
+                memproklamirkan kemerdekaan pada 17 Agustus 1945. Melalui semangat dan pengorbanan mereka, kita dapat menikmati kebebasan yang kita rasakan hari ini. Semoga semangat juang mereka 
+                menjadi inspirasi bagi kita semua untuk terus menjaga dan memperkuat persatuan bangsa, menuju Indonesia yang lebih maju dan berdaulat.
                 </h2>
               </div>
             </div>
@@ -251,7 +243,7 @@
           </div>
         </div>
       
-      <section id="pricing" class="secondary-color text-center scrollto clearfix ">
+      <section id="tokoh" class="secondary-color text-center scrollto clearfix ">
             <div class="row clearfix">
 
                 <div class="section-heading">
@@ -264,34 +256,31 @@
                         <h3>Ir. Soekarno</h3>
                         <p class="pricing-sub">Presiden Republik Indonesia</p>
                         <div class="pricing">
-                            <div class="price"><span>$</span>19</div>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+                        <img src="images/irsoekarno.jpeg"/>
                         </div>
                         <ul>
                             <li>Ir. Soekarno, dikenal sebagai Bung Karno, adalah proklamator utama dan presiden pertama Republik Indonesia. Ia berperan sentral dalam merumuskan dan membacakan teks proklamasi. Soekarno juga dikenal sebagai pemimpin yang karismatik dan visioner, yang mampu menginspirasi semangat nasionalisme di kalangan rakyat Indonesia.</li>
                         </ul>
-                        <a href="#" class="button">BUY TODAY</a>
+                        <a href="https://id.wikipedia.org/wiki/Soekarno" class="button">Selengkapnya</a>
                     </div>
                 </div>
                 <!--End Pricing Block-->
 
                 <!--Pricing Block-->
-                <div class="pricing-block featured col-3 wow fadeInUp" data-wow-delay="0.6s">
+                <div class="pricing-block col-3 wow fadeInUp" data-wow-delay="0.6s">
                     <div class="pricing-block-content">
-                        <h3>Student</h3>
-                        <p class="pricing-sub">Most popular choice</p>
+                        <h3>Drs. H. Mohammad Hatta</h3>
+                        <p class="pricing-sub">Wakil Presiden Inonesia</p>
                         <div class="pricing">
-                            <div class="price"><span>$</span>29</div>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+                        <img src="images/mohhatta.jpg"/>
                         </div>
                         <ul>
-                            <li>15 Downloads</li>
-                            <li>5 Extensions</li>
-                            <li>Tutorials with Files</li>
-                            <li>Forum Support</li>
-                            <li>2 years free updates</li>
+                            <li>Mohammad Hatta, yang menjabat sebagai wakil presiden pertama, juga merupakan salah satu proklamator. Ia berkontribusi dalam penyusunan naskah proklamasi dan memberikan pemikiran penting dalam proses tersebut.
+                            Hatta dikenal sebagai tokoh yang berperan dalam diplomasi dan pengakuan internasional terhadap kemerdekaan Indonesia.
+                            </li>
+
                         </ul>
-                        <a href="#" class="button">BUY TODAY</a>
+                        <a href="https://id.wikipedia.org/wiki/Mohammad_Hatta" class="button">Selengkapnya</a>
                     </div>
                 </div>
                 <!--End Pricing Block-->
@@ -299,20 +288,16 @@
                 <!--Pricing Block-->
                 <div class="pricing-block col-3 wow fadeInUp" data-wow-delay="0.8s">
                     <div class="pricing-block-content">
-                        <h3>Business</h3>
-                        <p class="pricing-sub">For the whole team</p>
+                        <h3>Ahmad Soebardjo</h3>
+                        <p class="pricing-sub">Mantan Menteri Luar Negeri Indonesia</p>
                         <div class="pricing">
-                            <div class="price"><span>$</span>49</div>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+                        <img src="images/ahmadsoe.jpg"/>
                         </div>
                         <ul>
-                            <li>Unlimited Downloads</li>
-                            <li>Unlimited Extensions</li>
-                            <li>HD Video Tutorials</li>
-                            <li>Chat Support</li>
-                            <li>Lifetime free updates</li>
+                            <li>Ahmad Soebardjo adalah salah satu tokoh penting dalam perumusan naskah proklamasi. Ia membantu dalam menyusun ide-ide yang kemudian dituangkan dalam teks proklamasi, serta berperan dalam mengoordinasikan berbagai pihak untuk memastikan proklamasi berjalan lancar</li>
+                            <br/>
                         </ul>
-                        <a href="#" class="button">BUY TODAY</a>
+                        <a href="https://id.wikipedia.org/wiki/Achmad_Soebardjo" class="button">Selengkapnya</a>
                     </div>
                 </div>
                 <!--End Pricing Block-->
@@ -320,108 +305,113 @@
             </div>
         </section>
 
+        <section id="pricing" class="secondary-color text-center scrollto clearfix ">
+            <div class="row clearfix">
 
-        <!--Introduction-->
-        <section id="service1s" class="introduction scrollto">
-          <div class="row clearfix">
-            <div class="col-3">
-              <div class="section-heading">
-                <h3>SUCCESS</h3>
-                <h2 class="section-title">
-                  How We Help You To Sell Your Product
-                </h2>
-                <p class="section-subtitle">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Ut enim ad minim veniam!
-                </p>
-              </div>
+                <!--Pricing Block-->
+                <div class="pricing-block col-3 wow fadeInUp" data-wow-delay="0.4s">
+                    <div class="pricing-block-content">
+                        <h3>Fatmawati</h3>
+                        <p class="pricing-sub">Ibu Negara Indonesia</p>
+                        <div class="pricing">
+                        <img src="images/fatmawati.jpg"/>
+                        </div>
+                        <ul>
+                            <li>Fatmawati, istri Soekarno, memiliki peran simbolis yang sangat penting dengan menjahit bendera pusaka Merah-Putih yang dikibarkan saat proklamasi. Kontribusinya dalam menyiapkan bendera ini menjadi bagian penting dari identitas nasional Indonesia.</li>
+                        </ul>
+                        <a href="https://id.wikipedia.org/wiki/Fatmawati" class="button">Selengkapnya</a>
+                    </div>
+                </div>
+                <!--End Pricing Block-->
+
+                <!--Pricing Block-->
+                <div class="pricing-block col-3 wow fadeInUp" data-wow-delay="0.6s">
+                    <div class="pricing-block-content">
+                        <h3>Sayuti Melik</h3>
+                        <p class="pricing-sub">Pengetik Naskah Proklamasi Kemerdekaan</p>
+                        <div class="pricing">
+                        <img src="images/sayuti.jpg"/>
+                        </div>
+                        <ul>
+                            <li>Sayuti Melik berperan sebagai pengetik naskah proklamasi. Ia mengetik teks proklamasi pada malam sebelum pengumuman, yang menjadi dokumen penting dalam sejarah Indonesia.
+                            <br/>
+                            <br/>
+                            <br/>
+                          </li>
+
+                        </ul>
+                        <a href="https://id.wikipedia.org/wiki/Sayuti_Melik" class="button">Selengkapnya</a>
+                    </div>
+                </div>
+                <!--End Pricing Block-->
+
+                <!--Pricing Block-->
+                <div class="pricing-block col-3 wow fadeInUp" data-wow-delay="0.8s">
+                    <div class="pricing-block-content">
+                        <h3>Soekarni</h3>
+                        <p class="pricing-sub">Pahlawan Nasional Indonesia</p>
+                        <div class="pricing">
+                        <img src="images/soekarni.jpg"/>
+                        </div>
+                        <ul>
+                            <li>Soekarni adalah tokoh yang berperan dalam mobilisasi massa dan pengorganisasian untuk mendukung proklamasi. Ia juga terlibat dalam penyebaran informasi mengenai proklamasi kepada masyarakat luas.</li>
+                            <br/>
+                        </ul>
+                        <a href="https://id.wikipedia.org/wiki/Soekarni" class="button">Selengkapnya</a>
+                    </div>
+                </div>
+                <!--End Pricing Block-->
+
             </div>
-
-            <div class="col-2-3">
-              <!--Icon Block-->
-              <div
-                class="col-2 icon-block icon-top wow fadeInUp"
-                data-wow-delay="0.1s"
-              >
-                <!--Icon-->
-                <div class="icon">
-                  <i class="fa fa-html5 fa-2x"></i>
-                </div>
-                <!--Icon Block Description-->
-                <div class="icon-block-description">
-                  <h4>HTML5 &amp; CSS3</h4>
-                  <p>
-                    Has ne tritani atomorum conclusionemque, in dolorum volumus
-                    cotidieque eum. At vis choro neglegentur iudico
-                  </p>
-                </div>
-              </div>
-              <!--End of Icon Block-->
-
-              <!--Icon Block-->
-              <div
-                class="col-2 icon-block icon-top wow fadeInUp"
-                data-wow-delay="0.3s"
-              >
-                <!--Icon-->
-                <div class="icon">
-                  <i class="fa fa-bolt fa-2x"></i>
-                </div>
-                <!--Icon Block Description-->
-                <div class="icon-block-description">
-                  <h4>Easy to Use</h4>
-                  <p>
-                    Cu vero ipsum vim, doctus facilisi sea in. Eam ex falli
-                    honestatis repudiandae, sit detracto mediocrem disputationi
-                  </p>
-                </div>
-              </div>
-              <!--End of Icon Block-->
-
-              <!--Icon Block-->
-              <div
-                class="col-2 icon-block icon-top wow fadeInUp"
-                data-wow-delay="0.5s"
-              >
-                <!--Icon-->
-                <div class="icon">
-                  <i class="fa fa-tablet fa-2x"></i>
-                </div>
-                <!--Icon Block Description-->
-                <div class="icon-block-description">
-                  <h4>Fully Responsive</h4>
-                  <p>
-                    Id porro tritani recusabo usu, eum intellegam consequuntur
-                    et. Fugit debet ea sit, an pro nemore vivendum
-                  </p>
-                </div>
-              </div>
-              <!--End of Icon Block-->
-
-              <!--Icon Block-->
-              <div
-                class="col-2 icon-block icon-top wow fadeInUp"
-                data-wow-delay="0.5s"
-              >
-                <!--Icon-->
-                <div class="icon">
-                  <i class="fa fa-rocket fa-2x"></i>
-                </div>
-                <!--Icon Block Description-->
-                <div class="icon-block-description">
-                  <h4>Parallax Effect</h4>
-                  <p>
-                    Id porro tritani recusabo usu, eum intellegam consequuntur
-                    et. Fugit debet ea sit, an pro nemore vivendum
-                  </p>
-                </div>
-              </div>
-              <!--End of Icon Block-->
-            </div>
-          </div>
         </section>
-        <!--End of Introduction-->
+        <section id="pricing" class="secondary-color text-center scrollto clearfix ">
+            <div class="row clearfix">
+
+                <!--Pricing Block-->
+                <div class="pricing-block col-3 wow fadeInUp" data-wow-delay="0.4s">
+                    <div class="pricing-block-content">
+                        <h3>Laksamana Maeda</h3>
+                        <p class="pricing-sub">Perwira Tinggi Angkatan Laut Kekaisaran Jepang</p>
+                        <div class="pricing">
+                        <img src="images/laksamana.jpg"/>
+                        </div>
+                        <ul>
+                            <li>Laksamana Maeda, seorang perwira Jepang, memberikan dukungan logistik dan tempat bagi para tokoh proklamasi untuk merumuskan naskah proklamasi. Perannya sangat penting dalam menciptakan suasana yang kondusif untuk pelaksanaan proklamasi.</li>
+                        </ul>
+                        <a href="https://id.wikipedia.org/wiki/Maeda_Tadashi" class="button">Selengkapnya</a>
+                    </div>
+                </div>
+                <!--End Pricing Block-->
+
+                <!--Pricing Block-->
+                <div class="pricing-block col-3 wow fadeInUp" data-wow-delay="0.8s">
+                    <div class="pricing-block-content">
+                        <h3>Latief Hendraningrat</h3>
+                        <p class="pricing-sub">Komandan SKKAD</p>
+                        <div class="pricing">
+                        <img src="images/latief.jpeg"/>
+                        </div>
+                        <ul>
+                            <li>Latif Hendraningrat berkontribusi dalam upacara pengibaran bendera pada tanggal 17 Agustus 1945, menandai momen bersejarah bagi bangsa Indonesia.</li>
+                        <br/>
+                        <br/>
+                       
+                        </ul>
+                        <a href="https://id.wikipedia.org/wiki/Latief_Hendraningrat" class="button">Selengkapnya</a>
+                    </div>
+                </div>
+                <!--End Pricing Block-->
+              </div>
+        </section>
+
+        <!--Galeri Kemrdekaan-->
+
+        <div id="galeri" class="scrollto clearfix">
+        <div class="row clearfix">
+                <div class="section-heading">
+                    <h2 class="section-title1">Galeri Kemerdekaan Indonesia</h2>
+                </div>
+
 
         <!--Gallery-->
         <aside
@@ -465,6 +455,61 @@
             ><img
               src="images/gallery-images/gallery-image-4.jpg"
               alt="Landing Page"
+          /></a>
+          <a
+            href="images/gallery-images/gallery-image-5.jpg"
+            data-featherlight="image"
+            class="col-3 wow fadeIn"
+            data-wow-delay="0.9s"
+            ><img
+              src="images/gallery-images/gallery-image-5.jpg"
+              alt="Landing Page"
+          /></a>
+          <a
+            href="images/gallery-images/gallery-image-6.jpg"
+            data-featherlight="image"
+            class="col-3 wow fadeIn"
+            data-wow-delay="0.7s"
+            ><img
+              src="images/gallery-images/gallery-image-6.jpg"
+              alt="Landing Page"
+          /></a>
+          <a
+            href="images/gallery-images/gallery-image-1.jpg"
+            data-featherlight="image"
+            class="col-3 wow fadeIn"
+            data-wow-delay="0.1s"
+            ><img
+              src="images/gallery-images/gallery-image-1.jpg"
+              alt="Landing Page"
+          /></a>
+          <a
+            href="images/gallery-images/gallery-image-2.jpg"
+            data-featherlight="image"
+            class="col-3 wow fadeIn"
+            data-wow-delay="0.3s"
+            ><img
+              src="images/gallery-images/gallery-image-2.jpg"
+              alt="Landing Page"
+          /></a>
+          <a
+            href="images/gallery-images/gallery-image-3.jpg"
+            data-featherlight="image"
+            class="col-3 wow fadeIn"
+            data-wow-delay="0.5s"
+            ><img
+              src="images/gallery-images/gallery-image-3.jpg"
+              alt="Landing Page"
+          /></a>
+          <a
+            href="images/gallery-images/gallery-image-4.jpg"
+            data-featherlight="image"
+            class="col-3 wow fadeIn"
+            data-wow-delay="1.1s"
+            ><img
+              src="images/gallery-images/gallery-image-4.jpg"
+              alt="Landing Page"
+              
           /></a>
           <a
             href="images/gallery-images/gallery-image-5.jpg"
