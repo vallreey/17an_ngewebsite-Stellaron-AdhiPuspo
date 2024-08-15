@@ -97,34 +97,6 @@
                   <li>
                     <a
                       target="_blank"
-                      title="Facebook"
-                      href="https://www.facebook.com/username"
-                    >
-                      <i class="fa fa-facebook fa-1x"></i><span>Facebook</span>
-                    </a>
-                  </li>
-                  <li>
-                    <a
-                      target="_blank"
-                      title="Google+"
-                      href="http://google.com/+username"
-                    >
-                      <i class="fa fa-google-plus fa-1x"></i
-                      ><span>Google+</span>
-                    </a>
-                  </li>
-                  <li>
-                    <a
-                      target="_blank"
-                      title="Twitter"
-                      href="http://www.twitter.com/username"
-                    >
-                      <i class="fa fa-twitter fa-1x"></i><span>Twitter</span>
-                    </a>
-                  </li>
-                  <li>
-                    <a
-                      target="_blank"
                       title="Instagram"
                       href="http://www.instagram.com/vallreey"
                     >
@@ -136,9 +108,9 @@
                     <a
                       target="_blank"
                       title="behance"
-                      href="http://www.behance.net"
+                      href="https://linktr.ee/revalsap"
                     >
-                      <i class="fa fa-behance fa-1x"></i><span>Behance</span>
+                      <i class="fa fa-github fa-1x"></i><span>Behance</span>
                     </a>
                   </li>
                 </ul>
@@ -152,7 +124,7 @@
                     <a href="#banner">Home</a>
                   </li>
                   <li>
-                    <a href="#sejarah">Sejarah</a>
+                    <a href="#sejarah">Quotes</a>
                   </li>
                   <li>
                     <a href="#tokoh">Tokoh Pahlawan</a>
@@ -161,7 +133,7 @@
                     <a href="#galeri">Galeri Kemerdekaan</a>
                   </li>
                   <li>
-                    <a href="#clients">Contact</a>
+                    <a href="#proklamasi">Teks Proklamasi</a>
                   </li>
                 </ul>
               </nav>
@@ -422,94 +394,25 @@
               </div>
         </section>
 
-        <div id="galeri" class="scrollto clearfix">
-        <div class="row clearfix">
-                <div class="section-heading">
-                    <h2 class="section-title1">Galeri Kemerdekaan Indonesia</h2>
-                </div>
-
-
-        <!--Gallery-->
-        <aside
-          id="gallery"
-          class="row text-center scrollto clearfix"
-          data-featherlight-gallery
-          data-featherlight-filter="a"
-        >
-          <a
-            href="images/gallery-images/gallery-image-1.jpg"
-            data-featherlight="image"
-            class="col-3 wow fadeIn"
-            data-wow-delay="0.1s"
-            ><img
-              src="images/gallery-images/gallery-image-1.jpg"
-              alt="Landing Page"
-          /></a>
-          <a
-            href="images/gallery-images/gallery-image-2.jpg"
-            data-featherlight="image"
-            class="col-3 wow fadeIn"
-            data-wow-delay="0.3s"
-            ><img
-              src="images/gallery-images/gallery-image-2.jpg"
-              alt="Landing Page"
-          /></a>
-          <a
-            href="images/gallery-images/gallery-image-3.jpg"
-            data-featherlight="image"
-            class="col-3 wow fadeIn"
-            data-wow-delay="0.5s"
-            ><img
-              src="images/gallery-images/gallery-image-3.jpg"
-              alt="Landing Page"
-          /></a>
-          <a
-            href="images/gallery-images/gallery-image-4.jpg"
-            data-featherlight="image"
-            class="col-3 wow fadeIn"
-            data-wow-delay="1.1s"
-            ><img
-              src="images/gallery-images/gallery-image-4.jpg"
-              alt="Landing Page"
-          /></a>
-          <a
-            href="images/gallery-images/gallery-image-5.jpg"
-            data-featherlight="image"
-            class="col-3 wow fadeIn"
-            data-wow-delay="0.9s"
-            ><img
-              src="images/gallery-images/gallery-image-5.jpg"
-              alt="Landing Page"
-          /></a>
-          <a
-            href="images/gallery-images/gallery-image-6.jpg"
-            data-featherlight="image"
-            class="col-3 wow fadeIn"
-            data-wow-delay="0.7s"
-            ><img
-              src="images/gallery-images/gallery-image-6.jpg"
-              alt="Landing Page"
-          /></a>
-        </aside>
+        
         <!--End of Gallery-->
 
         
 
         <!--Testimonials-->
+        <section class= "harapan">
         <aside
           id="testimonials"
           class="scrollto text-center"
-          data-enllax-ratio=".2"
-        >
+          data-enllax-ratio=".2">
           <div class="row clearfix">
-            <div class="section-heading">
-              <h3>FEEDBACK</h3>
-              <h2 class="section-title">Harapan Kami untuk Indonesia</h2>
+            <div class="section-heading1">
+              <h2 class="section-title1">Harapan Kami untuk Indonesia</h2>
             </div>
 
             <!--User Testimonial-->
             <blockquote class="col-3 testimonial classic">
-              <img src="images/user-images/user-1.jpg" alt="User" />
+              <img src="images/user-images/sw.png" alt="User" />
               <q
                 >Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
                 eiusmod tempor incididunt ut labore et dolore magna aliqua</q
@@ -520,39 +423,36 @@
 
             <!--User Testimonial-->
             <blockquote class="col-3 testimonial classic">
-              <img src="images/user-images/user-1.jpg" alt="User" />
-              <q
-                >Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua</q
-              >
+              <img src="images/user-images/ff.png" alt="User" />
+              <q>Semoga Indonesia terus maju sebagai bangsa yang berdaulat, adil, dan makmur. 
+                mari kita wujudkan generasi emas yang berinovasi, mencintai budaya, serta menjaga keberagaman. 
+                Semoga keadilan sosial bagi seluruh rakyat Indonesia menjadi kenyataan, dan Indonesia menjadi contoh bagi dunia dalam hal toleransi, kebhinekaan, dan kemajuan</q>
               <footer>Revalsa Putra</footer>
             </blockquote>
             <!-- End of Testimonial-->
 
             <!--User Testimonial-->
             <blockquote class="col-3 testimonial classic">
-              <img src="images/user-images/user-1.jpg" alt="User" />
+              <img src="images/user-images/ellio.png" alt="User" />
               <q
-                >Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magma aliqua</q
+                >Saya berharap indonesia bisa menjadi negera yang selalu mengedepankan kepentingan rakyatnya</q
               >
               <footer>Surya Bintang</footer>
             </blockquote>
             <!-- End of Testimonial-->
           </div>
         </aside>
+        </section>
         <!--End of Testimonials-->
 
         <!--Clients-->
-        <section id="clients" class="scrollto clearfix" tabindex="-1">
+        <section id="galeri" class="scrollto clearfix" tabindex="-1">
           <div class="row clearfix">
             <div class="col-3">
               <div class="section-heading">
-                <h2 class="section-title1">Companies who use our services</h2>
+                <h2 class="section-title1">Peristiwa Pasca Kemerdekaan Indonesia</h2>
                 <p class="section-subtitle">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Ut enim ad minim veniam!
+                Setelah perjuangan panjang dalam merebut kemerdekaan dari tangan penjajah, Indonesia memasuki babak baru yang penuh tantangan dan harapan. Untuk itu penting untuk mempelajari sejarah tentang periode peristiwa pasca kemerdekaan Indonesia.
                 </p>
               </div>
             </div>
@@ -562,153 +462,120 @@
             href="images/proklamasi.jpg"
             data-featherlight="image"
             class="col-3 wow fadeIn"
-            data-wow-delay="0.7s">
+            data-wow-delay="0.5s">
                 <img
                   src="images/proklamasi.jpg"
                   alt="Proklamasi.png"
                 />
                 <div class="client-overlay"><span>Proklamasi Kemerdekaan Indonesia</span></div>
               </a>
-              <a href="images/gallery-images/gallery-image-1.jpg"
-            data-featherlight="image"
-            class="col-3 wow fadeIn"
-            data-wow-delay="0.1s">
+              <a href="images/nica.jpg" data-featherlight="image" class="col-3 wow fadeIn" data-wow-delay="0.5s">
                 <img
-                  src="images/company-images/company-logo2.png"
+                  src="images/nica.jpg"
                   alt="Company"
                 />
-                <div class="client-overlay"><span>Fingerprint</span></div>
+                <div class="client-overlay"><span>Kedatangan Nica</span></div>
               </a>
-              <a href="#" class="col-3">
+              <a href="images/medan.jpg" data-featherlight="image" class="col-3 wow fadeIn" data-wow-delay="0.5s">
                 <img
-                  src="images/company-images/company-logo3.png"
+                  src="images/medan.jpg"
                   alt="Company"
                 />
-                <div class="client-overlay"><span>The Man</span></div>
-              </a>
-              <a href="#" class="col-3">
-                <img
-                  src="images/company-images/company-logo4.png"
-                  alt="Company"
-                />
-                <div class="client-overlay"><span>Mustache</span></div>
-              </a>
-              <a href="#" class="col-3">
-                <img
-                  src="images/company-images/company-logo5.png"
-                  alt="Company"
-                />
-                <div class="client-overlay"><span>Goat</span></div>
-              </a>
-              <a href="#" class="col-3">
-                <img
-                  src="images/company-images/company-logo6.png"
-                  alt="Company"
-                />
-                <div class="client-overlay"><span>Justice</span></div>
-              </a>
-              <a href="#" class="col-3">
-                <img
-                  src="images/company-images/company-logo7.png"
-                  alt="Company"
-                />
-                <div class="client-overlay"><span>Ball</span></div>
-              </a>
-              <a href="#" class="col-3">
-                <img
-                  src="images/company-images/company-logo8.png"
-                  alt="Company"
-                />
-                <div class="client-overlay"><span>Cold</span></div>
+                <div class="client-overlay"><span>Perang Medan Area</span></div>
               </a>
 
-              <a href="#" class="col-3">
+              <a href="images/bandung.jpg" data-featherlight="image" class="col-3 wow fadeIn" data-wow-delay="0.5s">
                 <img
-                  src="images/company-images/company-logo9.png"
+                  src="images/bandung.jpg"
                   alt="Company"
                 />
-                <div class="client-overlay"><span>Cold</span></div>
+                <div class="client-overlay"><span>Bandung Lautan Api</span></div>
               </a>
+
+              <a href="images/ambarawa.jpg" data-featherlight="image" class="col-3 wow fadeIn" data-wow-delay="0.5s">
+                <img
+                  src="images/ambarawa.jpg"
+                  alt="Company"
+                />
+                <div class="client-overlay"><span>Pertempuran Ambarawa</span></div>
+              </a>
+
+              <a href="images/puputan.jpg" data-featherlight="image" class="col-3 wow fadeIn" data-wow-delay="0.5s">
+                <img
+                  src="images/puputan.jpg"
+                  alt="Company"
+                />
+                <div class="client-overlay"><span>Puputan Margarana</span></div>
+              </a>
+
+              <a href="images/rengas.jpg" data-featherlight="image" class="col-3 wow fadeIn" data-wow-delay="0.5s">
+                <img
+                  src="images/rengas.jpg"
+                  alt="Company"
+                />
+                <div class="client-overlay"><span>Peristiwa Rengasdengklok</span></div>
+              </a>
+
+              <a href="images/ppki.jpg" data-featherlight="image" class="col-3 wow fadeIn" data-wow-delay="0.5s">
+                <img
+                  src="images/ppki.jpg"
+                  alt="Company"
+                />
+                <div class="client-overlay"><span>Pembentukan PPKI</span></div>
+              </a>
+
+              <a href="images/menyerah.jpg" data-featherlight="image" class="col-3 wow fadeIn" data-wow-delay="0.5s">
+                <img
+                  src="images/menyerah.jpg"
+                  alt="Company"
+                />
+                <div class="client-overlay"><span>Jepang menyerah kepada Sekutu</span></div>
+              </a>
+              
             </div>
           </div>
 </section>
         <!--End of Pricing Tables-->
-        <section id="about" class="introduction scrollto">
+        <section id="proklamasi" class="introduction scrollto">
 
             <div class="row clearfix">
 
                 <div class="col-3">
                     <div class="section-heading">
                         <h2 class="section-title1">Teks Proklamasi Indonesia</h2>
-                        <p class="section-subtitle">Kami bangsa Indonesia dengan ini menjatakan kemerdekaan Indonesia. Hal-hal jang mengenai pemindahan kekoeasaan d.l.l., 
-                          diselenggarakan dengan tjara saksama dan dalam tempoh jang sesingkat-singkatnja. Atas nama bangsa Indonesia. Soekarno/Hatta</p>
+                        <p class="section-subtitle">Proklamasi. Kami bangsa Indonesia dengan ini menjatakan kemerdekaan Indonesia. Hal-hal jang mengenai pemindahan kekoeasaan d.l.l., 
+                          diselenggarakan dengan tjara saksama dan dalam tempoh jang sesingkat-singkatnja. Djakarta 17 Agustus 1945. Atas nama bangsa Indonesia. Soekarno/Hatta</p>
+
+                        <div class="sound-button">      
+                          <button id="playButton">Putar Suara Proklamasi</button>
+                          <button id="stopButton">Matikan Audio</button>
+                          <audio id="sound" src="images/proklamasi.mp3"></audio>
+                        </div>
+
+                      <script>
+                          // JavaScript untuk mengontrol audio
+                          const playButton = document.getElementById('playButton');
+                          const sound = document.getElementById('sound');
+
+                          playButton.addEventListener('click', function() {
+                              sound.play();
+                          });
+
+                          stopButton.addEventListener('click', function() {
+                              sound.pause();
+                              sound.currentTime = 0;
+                          });
+                      </script>
                     </div>
 
                 </div>
 
                 <div class="col-2-3">
 
-                    <!--Icon Block-->
-                    <div class="col-2 icon-block icon-top wow fadeInUp" data-wow-delay="0.1s">
-                        <!--Icon-->
-                        <div class="icon">
-                            <i class="fa fa-html5 fa-2x"></i>
-                        </div>
-                        <!--Icon Block Description-->
-                        <div class="icon-block-description">
-                            <h4>HTML5 &amp; CSS3</h4>
-                            <p>Has ne tritani atomorum conclusionemque, in dolorum volumus cotidieque eum. At vis choro
-                                neglegentur iudico</p>
-                        </div>
-                    </div>
-                    <!--End of Icon Block-->
-
-                    <!--Icon Block-->
-                    <div class="col-2 icon-block icon-top wow fadeInUp" data-wow-delay="0.3s">
-                        <!--Icon-->
-                        <div class="icon">
-                            <i class="fa fa-bolt fa-2x"></i>
-                        </div>
-                        <!--Icon Block Description-->
-                        <div class="icon-block-description">
-                            <h4>Easy to Use</h4>
-                            <p>Cu vero ipsum vim, doctus facilisi sea in. Eam ex falli honestatis repudiandae, sit
-                                detracto mediocrem disputationi</p>
-                        </div>
-                    </div>
-                    <!--End of Icon Block-->
-
-                    <!--Icon Block-->
-                    <div class="col-2 icon-block icon-top wow fadeInUp" data-wow-delay="0.5s">
-                        <!--Icon-->
-                        <div class="icon">
-                            <i class="fa fa-tablet fa-2x"></i>
-                        </div>
-                        <!--Icon Block Description-->
-                        <div class="icon-block-description">
-                            <h4>Fully Responsive</h4>
-                            <p>Id porro tritani recusabo usu, eum intellegam consequuntur et. Fugit debet ea sit, an pro
-                                nemore vivendum</p>
-                        </div>
-                    </div>
-                    <!--End of Icon Block-->
-
-                    <!--Icon Block-->
-                    <div class="col-2 icon-block icon-top wow fadeInUp" data-wow-delay="0.5s">
-                        <!--Icon-->
-                        <div class="icon">
-                            <i class="fa fa-rocket fa-2x"></i>
-                        </div>
-                        <!--Icon Block Description-->
-                        <div class="icon-block-description">
-                            <h4>Parallax Effect</h4>
-                            <p>Id porro tritani recusabo usu, eum intellegam consequuntur et. Fugit debet ea sit, an pro
-                                nemore vivendum</p>
-                        </div>
-                    </div>
-                    <!--End of Icon Block-->
-
-                </div>
+                  <img
+                  src="images/prokamasiteks.jpeg"
+                  alt="Proklamasi.png"
+                />
 
             </div>
 
@@ -721,7 +588,7 @@
       <footer id="landing-footer" class="clearfix">
         <div class="row clearfix">
           <p id="copyright" class="col-2">
-            Made with love by Stellaron
+          ©2024 by Stellaron
             <!-- <a href="https://www.shapingrain.com">ShapingRain</a> -->
           </p>
 
@@ -731,7 +598,7 @@
             <a
                 target="_blank"
                 title="Instagram"
-                href="http://www.instagram.com/username"
+                href="http://www.instagram.com/vallreey"
               >
                 <i class="fa fa-instagram fa-1x"></i><span>Instagram</span>
               </a>

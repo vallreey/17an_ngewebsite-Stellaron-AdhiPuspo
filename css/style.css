@@ -223,6 +223,14 @@ section {
   position: relative;
 }
 
+.harapan {
+  max-width: 1530px;
+  height: 850px;
+  margin: 0 auto;
+  padding: 75px 0;
+  position: relative;
+}
+
 .no-padding-bottom .row,
 .no-padding-bottom div,
 .no-padding-bottom.row {
@@ -2473,4 +2481,38 @@ blockquote {
 
 .quotes2 {
   margin-top: 230px;
+}
+
+button {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 0px;
+  cursor: pointer;
+  border-radius: 5px;
+  outline: none;
+  transition: background-color 0.3s;
+  width: auto; /* Tombol menyesuaikan ukuran teks */
+  min-width: 120px; /* Lebar minimum tombol */
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+button:active {
+  transform: scale(0.95);
+}
+
+@media (max-width: 600px) {
+  /* Style untuk layar dengan lebar maksimal 600px */
+  button {
+      padding: 8px 16px;
+      font-size: 14px;
+  }
 }

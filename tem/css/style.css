@@ -193,6 +193,14 @@ section {
     position: relative;
 }
 
+.harapan {
+    max-width: 1245px;
+    margin: 0 auto;
+    padding: 75px 0;
+    position: relative;
+}
+
+
 .no-padding-bottom .row, .no-padding-bottom div, .no-padding-bottom.row {
     padding-bottom: 0;
 }
@@ -1396,8 +1404,7 @@ blockquote {
 .client-overlay {
     background: rgba(0, 0, 0, 0.8);
     position: absolute;
-    top;
-    0;
+    top: 0 ;
     right: 0;
     bottom: 0;
     left: 0;
