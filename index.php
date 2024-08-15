@@ -544,6 +544,7 @@
         <!--End of Testimonials-->
 
         <!--Clients-->
+        <section id="clients" class="scrollto clearfix" tabindex="-1">
           <div class="row clearfix">
             <div class="col-3">
               <div class="section-heading">
@@ -557,7 +558,7 @@
             </div>
 
             <div class="col-2-3">
-              <a 
+            <a 
             href="images/proklamasi.jpg"
             data-featherlight="image"
             class="col-3 wow fadeIn"
@@ -568,7 +569,10 @@
                 />
                 <div class="client-overlay"><span>Proklamasi Kemerdekaan Indonesia</span></div>
               </a>
-              <a href="#" class="col-3">
+              <a href="images/gallery-images/gallery-image-1.jpg"
+            data-featherlight="image"
+            class="col-3 wow fadeIn"
+            data-wow-delay="0.1s">
                 <img
                   src="images/company-images/company-logo2.png"
                   alt="Company"
