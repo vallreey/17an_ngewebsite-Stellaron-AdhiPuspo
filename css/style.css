@@ -21,7 +21,7 @@
 - 6.2 Testimonials
 - 6.3 Gallery
 - 6.4 Video
-- 6.5 Clients
+- 6.5 galeri
 - 6.6 Pricing Table
 7. Footer
 
@@ -257,7 +257,7 @@ section {
   padding: 20px;
 }
 
-#clients .col-2-3 [class*="col-"] {
+#galeri .col-2-3 [class*="col-"] {
   padding: 0;
 }
 
@@ -1441,9 +1441,9 @@ blockquote {
   cursor: pointer;
 }
 
-/* --------- 6.6 Clients ---------- */
+/* --------- 6.6 galeri ---------- */
 
-#clients a {
+#galeri a {
   display: block;
   text-align: center;
   position: relative;
@@ -1452,7 +1452,7 @@ blockquote {
   color: #fff;
 }
 
-#clients img {
+#galeri img {
   display: inline-block;
   padding: 15px 25px;
 }
@@ -1473,7 +1473,7 @@ blockquote {
   transition: all 0.3s ease-out;
 }
 
-#clients a:hover .client-overlay {
+#galeri a:hover .client-overlay {
   opacity: 1;
 }
 

@@ -400,54 +400,11 @@
         
 
         <!--Testimonials-->
-        <section class= "harapan">
-        <aside
-          id="testimonials"
-          class="scrollto text-center"
-          data-enllax-ratio=".2">
-          <div class="row clearfix">
-            <div class="section-heading1">
-              <h2 class="section-title1">Harapan Kami untuk Indonesia</h2>
-            </div>
-
-            <!--User Testimonial-->
-            <blockquote class="col-3 testimonial classic">
-              <img src="images/user-images/sw.png" alt="User" />
-              <q
-                >Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua</q
-              >
-              <footer>Adhi Puspo</footer>
-            </blockquote>
-            <!-- End of Testimonial-->
-
-            <!--User Testimonial-->
-            <blockquote class="col-3 testimonial classic">
-              <img src="images/user-images/ff.png" alt="User" />
-              <q>Semoga Indonesia terus maju sebagai bangsa yang berdaulat, adil, dan makmur. 
-                mari kita wujudkan generasi emas yang berinovasi, mencintai budaya, serta menjaga keberagaman. 
-                Semoga keadilan sosial bagi seluruh rakyat Indonesia menjadi kenyataan, dan Indonesia menjadi contoh bagi dunia dalam hal toleransi, kebhinekaan, dan kemajuan</q>
-              <footer>Revalsa Putra</footer>
-            </blockquote>
-            <!-- End of Testimonial-->
-
-            <!--User Testimonial-->
-            <blockquote class="col-3 testimonial classic">
-              <img src="images/user-images/ellio.png" alt="User" />
-              <q
-                >Saya berharap indonesia bisa menjadi negera yang selalu mengedepankan kepentingan rakyatnya</q
-              >
-              <footer>Surya Bintang</footer>
-            </blockquote>
-            <!-- End of Testimonial-->
-          </div>
-        </aside>
-        </section>
-        <!--End of Testimonials-->
+        
 
         <!--Clients-->
         <section id="galeri" class="scrollto clearfix" tabindex="-1">
-          <div class="row clearfix">
+          <div  class="row clearfix">
             <div class="col-3">
               <div class="section-heading">
                 <h2 class="section-title1">Peristiwa Pasca Kemerdekaan Indonesia</h2>
@@ -584,7 +541,54 @@
       </main>
       <!--End Main Content Area-->
 
-      <!--Footer-->
+      
+
+      <section class= "harapan">
+        <aside
+          id="testimonials"
+          class="scrollto text-center"
+          data-enllax-ratio=".2">
+          <div class="row clearfix">
+            <div class="section-heading1">
+              <h2 class="section-title1">Harapan Kami untuk Indonesia</h2>
+            </div>
+
+            <blockquote class="col-3 testimonial classic">
+              <img src="images/user-images/ff.png" alt="User" />
+              <q>Semoga Indonesia terus maju sebagai bangsa yang berdaulat, adil, dan makmur. 
+                mari kita wujudkan generasi emas yang berinovasi, mencintai budaya, serta menjaga keberagaman. 
+                Semoga keadilan sosial bagi seluruh rakyat Indonesia menjadi kenyataan, dan Indonesia menjadi contoh bagi dunia dalam hal toleransi, kebhinekaan, dan kemajuan. MERDEKA! SELAMAT HUT ke-79 RI!</q>
+              <footer>Revalsa Putra</footer>
+            </blockquote>
+
+ 
+            
+            <!-- End of Testimonial-->
+
+
+            
+
+            <blockquote class="col-3 testimonial classic">
+              <img src="images/user-images/ellio.png" alt="User" />
+              <q
+                >Saya berharap indonesia bisa menjadi negera yang selalu mengedepankan kepentingan rakyatnya. Selamat HUT ke-79 RI!</q
+              >
+              <footer>Surya Bintang</footer>
+            </blockquote>
+
+            <blockquote class="col-3 testimonial classic">
+              <img src="images/user-images/sw.png" alt="User" />
+              <q
+                >Gw berharap agar kedepannya Indonesia menjadi lebih baik, tidak ada korupsi lagi, rakyatnya menjadi sejahtera, tidak ada kasus- Kasus HAM, dan rakyatnya bisa menerapkan "waktu adalah uang".
+                Harapan watashi adalah Indonesia menjadi tempat yang aman bagi semua warga, tanpa memandang suku, agama, ras, atau budaya. Selamat HUT ke-79 RI!</q
+              >
+              <footer>Adhi Puspo</footer>
+            </blockquote>
+
+          </div>
+        </aside>
+        </section>
+        <!--Footer-->
       <footer id="landing-footer" class="clearfix">
         <div class="row clearfix">
           <p id="copyright" class="col-2">
@@ -608,7 +612,6 @@
           <!--End of Social Icons in Footer-->
         </div>
       </footer>
-      <!--End of Footer-->
     </div>
 
     <!-- Include JavaScript resources -->
